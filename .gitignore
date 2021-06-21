@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+ffmpeg-4.4-full_build/
 # Distribution / packaging
 .Python
 build/
